@@ -1,0 +1,8 @@
+C:\Users\Computer.Kosar\Desktop\LinearRegression\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe.config
+C:\Users\Computer.Kosar\Desktop\LinearRegression\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe
+C:\Users\Computer.Kosar\Desktop\LinearRegression\LinearRegression\LinearRegression\bin\Debug\LinearRegression.pdb
+C:\Users\Computer.Kosar\Desktop\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.AssemblyReference.cache
+C:\Users\Computer.Kosar\Desktop\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer.Kosar\Desktop\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.CoreCompileInputs.cache
+C:\Users\Computer.Kosar\Desktop\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.exe
+C:\Users\Computer.Kosar\Desktop\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.pdb
